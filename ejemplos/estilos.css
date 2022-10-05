@@ -1,0 +1,9 @@
+/* Fig. 4.7: estilos.css */
+/* Hoja de estilo externa */
+body    {font-family: arial, helvetica, sans-serif;}
+a.nodec {text-decoration: none;}
+a:hover {text-decoration: undelrine;}
+li em   {font-weight: bold;}
+hl, em  {text-decoration: underline}
+ul      {margin-left: 20px;}
+il ul   {font-size: .8em;}
